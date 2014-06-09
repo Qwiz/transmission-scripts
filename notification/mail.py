@@ -1,0 +1,3 @@
+'''
+Send notify via mail
+'''
